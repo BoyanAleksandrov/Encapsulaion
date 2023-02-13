@@ -1,0 +1,16 @@
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\bin\Debug\net5.0\encapsulation5.exe
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\bin\Debug\net5.0\encapsulation5.deps.json
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\bin\Debug\net5.0\encapsulation5.runtimeconfig.json
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\bin\Debug\net5.0\encapsulation5.runtimeconfig.dev.json
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\bin\Debug\net5.0\encapsulation5.dll
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\bin\Debug\net5.0\ref\encapsulation5.dll
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\bin\Debug\net5.0\encapsulation5.pdb
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.csproj.AssemblyReference.cache
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.AssemblyInfoInputs.cache
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.AssemblyInfo.cs
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.csproj.CoreCompileInputs.cache
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.dll
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\ref\encapsulation5.dll
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.pdb
+C:\Users\Boyan1\RiderProjects\encapsulation5\encapsulation5\obj\Debug\net5.0\encapsulation5.genruntimeconfig.cache
